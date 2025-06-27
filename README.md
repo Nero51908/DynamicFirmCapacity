@@ -10,9 +10,9 @@ Exploring how to generate the experience needed to train agents.
 Low reusability envrionment implementation.
 Corresponding manuscript under review.
 
-## 2. Dynamic Firm Capacity: Eliminating Uncertainty of a PV-Battery Power Plant with Deep Reinforcement Learning 
+## 2. Eliminating the Uncertainty of a PV-Battery Power Plant Predicted Using DRL 
 
-[PV-BESS Gymnasium Environment and Application (available after publication)](https://github.com/Nero51908/pv-bess-dfc/tree/dev)
+[PV-BESS Gymnasium Environment and Application Code (available after publication)](https://github.com/Nero51908/pv-bess-dfc/tree/dev)
 
 PV-battery forecast and control planning simulation environment implemented with Gymnasium API.
 Application code to be released after publication.
