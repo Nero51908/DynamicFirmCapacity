@@ -10,7 +10,7 @@ Exploring how to generate the experience needed to train agents.
 Low reusability envrionment implementation.
 Corresponding manuscript under review.
 
-## 2. Eliminating the Uncertainty of a PV-Battery Power Plant Predicted Using DRL 
+## 2. Dispatchable PV-Battery Power and Trade-offs for Certainty: Upgrading from PV Forecast to Dynamic Firm Capacity via Deep Reinforcement Learning 
 
 [PV-BESS Gymnasium Environment and Application Code (available after publication)](https://github.com/Nero51908/pv-bess-dfc/tree/dev)
 
