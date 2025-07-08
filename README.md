@@ -17,8 +17,8 @@ Corresponding manuscript under review.
 PV-battery forecast and control planning simulation environment implemented with Gymnasium API.
 Application code to be released after publication.
 
-### For editor and reviewer to access
-[PV-BESS Gynmasium Environment (for editor and reviewer to access)](https://github.com/Nero51908/pv-bess-dfc-review/tree/main)
+### For editors and reviewers to access
+[PV-BESS Gynmasium Environment (for editors and reviewers to access)](https://github.com/Nero51908/pv-bess-dfc-review/tree/main)
 
 PV-battery forecast and control planning simulation environment implemented with Gymnasium API.
 An interactive version of the diagrams in the manuscript is available via this link.
