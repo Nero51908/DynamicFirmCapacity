@@ -1,8 +1,8 @@
-# DynamicFirmCapacity
-Links to code, data, and future updates
+# Dynamic Firm Capacity
+Links to repo, data, and future updates
 
 ## 1. Determine PV-Battery Dynamic Firm Capacity Using Deep Reinforcement Learning 
-(manuscript under review)
+(manuscript being revised)
 
 [DDPG Implementation - Google Drive](https://drive.google.com/drive/folders/1DZXO5jOYUaedVy_0DdGIbAHkPeMiu7DW?usp=share_link)
 
