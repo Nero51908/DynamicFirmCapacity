@@ -16,6 +16,3 @@ Verifying that deep reinforcement learning can solve control planning for PV-bat
 [PV-BESS Gynmasium Environment (for editors and reviewers to access)](https://github.com/Nero51908/pv-bess-dfc-review/tree/main)
 
 PV-battery environment implemented using Gymnasium API.
-
-### Everything
-[PV-BESS Gymnasium Environment and Application Code (available after publication)](https://github.com/Nero51908/pv-bess-dfc/tree/dev)
