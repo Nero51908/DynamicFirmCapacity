@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dispatchable PV-Battery Power and Trade-offs for Certainty: Upgrading from PV Forecast to Dynamic Firm Capacity via Deep Reinforcement Learning"
+date:   2025-04-01 12:33:32 +1000
+categories: publications
+---
+
+## For editors and reviewers to access during review period
+[PV-BESS Gynmasium Environment (for editors and reviewers to access)](https://github.com/Nero51908/pv-bess-dfc-review/tree/main)
+
+PV-battery environment implemented using Gymnasium API.
