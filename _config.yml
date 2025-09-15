@@ -22,7 +22,7 @@ title: Dynamic Firm Capacity
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is for listing my publications and source code about Dynamic Firm Capacity (DFC). 
-Let's think about making PV power dispatchable.
+  Let's think about making PV power dispatchable.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
