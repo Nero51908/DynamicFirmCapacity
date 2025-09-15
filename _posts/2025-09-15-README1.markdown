@@ -8,8 +8,9 @@ categories: publications
 ### For editors and reviewers from IEEE Transactions on Industrial Informatics before the code is published on IEEE Code Ocean:
 [**Source code, data, and an example for review shared via github (current submission)**](https://github.com/Nero51908/pv-bess-ddpg-review)
 
-[**Data is also available at IEEE DataPort**](https://dx.doi.org/10.21227/qx2p-4627)
+[**A reproducible run is available at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
 
+[**Data is also available at IEEE DataPort**](https://dx.doi.org/10.21227/qx2p-4627)
 
 ### Aims of this study
 1. Exploring how to generate the experience needed to train agents.
