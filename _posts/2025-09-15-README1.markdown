@@ -6,11 +6,17 @@ categories: publications
 ---
 
 ### For editors and reviewers from IEEE Transactions on Industrial Informatics to access the data and source code:
-[**Source code, data, and an example for review shared via github (current submission)**](https://github.com/Nero51908/pv-bess-ddpg-review)
+[**(New) Releases of seeded experiments via Google Drive**](https://drive.google.com/drive/folders/1tE8W7kJuPjA3KSr6qLoo5QqU81K_yyES?usp=share_link)
 
-[**A reproducible run is available at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
+[**(New) Seeded experiment results via Google Drive**](https://drive.google.com/drive/folders/1ZaPpNFi82f3D2eFSPy-ieYt6yUKQiopl?usp=share_link)
 
-[**Data is also available at IEEE DataPort**](https://dx.doi.org/10.21227/qx2p-4627)
+[**Source code repository at github**](https://github.com/Nero51908/pv-bess-ddpg-review)
+
+Branch main, commit hash 4310df02b4f447b631663598bee752085b34472b
+
+[**A reproducible run at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
+
+[**Packaged data hosted at IEEE DataPort**](https://dx.doi.org/10.21227/qx2p-4627)
 
 ### Aims of this study
 1. Exploring how to generate the experience needed to train agents.
