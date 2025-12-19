@@ -2,8 +2,15 @@
 Links to repo, data, and future updates
 
 ## 1. Determine PV-Battery Dynamic Firm Capacity Using Deep Reinforcement Learning 
-### For editors and reviewers from IEEE Transactions on Industrial Informatics to access the data and source code:
-[**Source code, data, and an example for review shared via github (current submission)**](https://github.com/Nero51908/pv-bess-ddpg-review)
+### For editors and reviewers from IEEE Transactions on Industrial Informatics to access the source code:
+
+[**(New) Releases of seeded experiments via Google Drive**](https://drive.google.com/drive/folders/1tE8W7kJuPjA3KSr6qLoo5QqU81K_yyES?usp=share_link)
+
+[**(New) Seeded experiment results via Google Drive**](https://drive.google.com/drive/folders/1ZaPpNFi82f3D2eFSPy-ieYt6yUKQiopl?usp=share_link)
+
+[**Source code github repo (current submission)**](https://github.com/Nero51908/pv-bess-ddpg-review)
+
+Branch main, commit hash 4310df02b4f447b631663598bee752085b34472b
 
 [**A reproducible run is available at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
 
