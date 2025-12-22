@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Determine PV-Battery Dynamic Firm Capacity Using Deep Reinforcement Learning"
-date:   2025-09-15 12:33:32 +1000
+title:  "(New) Determine PV-Battery Dynamic Firm Capacity Using Deep Reinforcement Learning"
+date:   2025-12-18 12:33:32 +1000
 categories: publications
 ---
 
@@ -12,7 +12,7 @@ categories: publications
 
 [**Source code repository at github**](https://github.com/Nero51908/pv-bess-ddpg-review)
 
-Branch main, commit hash 4310df02b4f447b631663598bee752085b34472b
+main branch, commit hash 372c4f52ffd38fbc54548a3b290b32963f528492
 
 [**A reproducible run at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
 
