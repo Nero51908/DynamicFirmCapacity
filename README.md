@@ -10,7 +10,7 @@ Links to repo, data, and future updates
 
 [**Source code github repo (current submission)**](https://github.com/Nero51908/pv-bess-ddpg-review)
 
-Branch main, commit hash 4310df02b4f447b631663598bee752085b34472b
+Branch main, commit hash 372c4f52ffd38fbc54548a3b290b32963f528492
 
 [**A reproducible run is available at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
 
