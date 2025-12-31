@@ -16,7 +16,6 @@ main branch, commit hash 372c4f52ffd38fbc54548a3b290b32963f528492
 
 [**A reproducible run at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
 
-[**Packaged data hosted at IEEE DataPort**](https://dx.doi.org/10.21227/qx2p-4627)
 
 ### Aims of this study
 1. Exploring how to generate the experience needed to train agents.
