@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "(New) Determine PV-Battery Dynamic Firm Capacity Using Deep Reinforcement Learning"
+title:  "Determine PV-Battery Dynamic Firm Capacity Using Deep Reinforcement Learning"
 date:   2025-12-18 12:33:32 +1000
 categories: publications
 ---
 
-### For editors and reviewers from IEEE Transactions on Industrial Informatics to access the data and source code:
-[**(New) Releases of seeded experiments via Google Drive**](https://drive.google.com/drive/folders/1tE8W7kJuPjA3KSr6qLoo5QqU81K_yyES?usp=share_link)
+### Data and Source Code:
+[**\[Google Drive Link\] Releases of seeded experiments**](https://drive.google.com/drive/folders/1tE8W7kJuPjA3KSr6qLoo5QqU81K_yyES?usp=share_link)
 
-[**(New) Seeded experiment results via Google Drive**](https://drive.google.com/drive/folders/1ZaPpNFi82f3D2eFSPy-ieYt6yUKQiopl?usp=share_link)
+[**\[Google Drive Link\] Seeded experiment results**](https://drive.google.com/drive/folders/1ZaPpNFi82f3D2eFSPy-ieYt6yUKQiopl?usp=share_link)
 
-[**Source code repository at github**](https://github.com/Nero51908/pv-bess-ddpg-review)
+[**\[Code Ocean Link\] Reproducible run**](https://doi.org/10.24433/CO.1245864.v1)
 
-main branch, commit hash 372c4f52ffd38fbc54548a3b290b32963f528492
+[**\[GitHub Link\] Source code repository**](https://github.com/Nero51908/pv-bess-ddpg-review)
 
-[**A reproducible run at IEEE Code Ocean**](https://doi.org/10.24433/CO.1245864.v1)
+	main branch, commit hash 372c4f52ffd38fbc54548a3b290b32963f528492
 
+[\[Google Drive Link\] old source code](https://drive.google.com/drive/folders/1DZXO5jOYUaedVy_0DdGIbAHkPeMiu7DW?usp=share_link)
 
 ### Aims of this study
 1. Exploring how to generate the experience needed to train agents.
@@ -24,4 +25,4 @@ main branch, commit hash 372c4f52ffd38fbc54548a3b290b32963f528492
 
 3. Contributing reusable code to the problem of quantifying PV-BESS dispatch availability with DRL.
 
-[old source code shared via Google Drive (previous submission)](https://drive.google.com/drive/folders/1DZXO5jOYUaedVy_0DdGIbAHkPeMiu7DW?usp=share_link)
+
